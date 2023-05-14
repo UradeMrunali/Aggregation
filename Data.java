@@ -1,7 +1,5 @@
 // Aggregation is nothing but "HAS A Relationship"
 // as both student and teacher containing same address datamebers , we created a separate class for address 
-
-
 class Address{
 	int plot_no;
 	String street;
