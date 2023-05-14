@@ -20,7 +20,6 @@ class Address{
 				+ ", pin=" + pin + "]";
 	}	
 }
-
 class Student{
 	int roll;
 	String name;
