@@ -6,7 +6,6 @@ class Address{
 	String landmark;
 	String city;
 	int pin;
-	
 	public Address(int plot_no, String street, String landmark, String city, int pin) {
 		super();
 		this.plot_no = plot_no;
